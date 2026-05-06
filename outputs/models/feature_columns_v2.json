@@ -1,0 +1,22 @@
+[
+  "PM2.5",
+  "PM10",
+  "NO2",
+  "NH3",
+  "SO2",
+  "CO",
+  "O3",
+  "PM2.5_lag1",
+  "PM2.5_lag7",
+  "PM2.5_lag30",
+  "AQI_lag1",
+  "AQI_lag7",
+  "PM2.5_roll7_mean",
+  "PM2.5_roll7_std",
+  "PM2.5_roll30_mean",
+  "day_of_week",
+  "month",
+  "season",
+  "is_weekend",
+  "year"
+]

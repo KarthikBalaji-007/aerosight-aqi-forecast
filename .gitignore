@@ -1,0 +1,16 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.jupyter_runtime/
+.idea/
+R&D/
+.DS_Store
+
+# Keep deployment artifacts small while preserving the active v3 model.
+*.pkl
+!outputs/models/best_model_v3.pkl
+!outputs/models/scaler_v3.pkl
+
+outputs/figures/*.png
